@@ -1,0 +1,288 @@
+{
+  "sourceCommit": "1b74b23baf1d2b21f443ec14c114852c69ffeabb",
+  "platform": "Linux x64 / WSL",
+  "screenshots": [
+    {
+      "file": "features-agent-voice-typing--recording-light.png",
+      "story": "features-agent-voice-typing--recording",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--starting-light.png",
+      "story": "features-agent-voice-typing--starting",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--processing-light.png",
+      "story": "features-agent-voice-typing--processing",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--recovery-light.png",
+      "story": "features-agent-voice-typing--recovery",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--ready-light.png",
+      "story": "features-agent-voice-typing--ready",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--model-not-ready-light.png",
+      "story": "features-agent-voice-typing--model-not-ready",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--downloading-light.png",
+      "story": "settings-voice-typing--downloading",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--paused-light.png",
+      "story": "settings-voice-typing--paused",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--verifying-light.png",
+      "story": "settings-voice-typing--verifying",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--ready-light.png",
+      "story": "settings-voice-typing--ready",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--failed-light.png",
+      "story": "settings-voice-typing--failed",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--waiting-light.png",
+      "story": "settings-voice-typing--waiting",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--unsupported-light.png",
+      "story": "settings-voice-typing--unsupported",
+      "theme": "light",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--recording-dark.png",
+      "story": "features-agent-voice-typing--recording",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--starting-dark.png",
+      "story": "features-agent-voice-typing--starting",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--processing-dark.png",
+      "story": "features-agent-voice-typing--processing",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--recovery-dark.png",
+      "story": "features-agent-voice-typing--recovery",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--ready-dark.png",
+      "story": "features-agent-voice-typing--ready",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "features-agent-voice-typing--model-not-ready-dark.png",
+      "story": "features-agent-voice-typing--model-not-ready",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--downloading-dark.png",
+      "story": "settings-voice-typing--downloading",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--paused-dark.png",
+      "story": "settings-voice-typing--paused",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--verifying-dark.png",
+      "story": "settings-voice-typing--verifying",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--ready-dark.png",
+      "story": "settings-voice-typing--ready",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--failed-dark.png",
+      "story": "settings-voice-typing--failed",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--waiting-dark.png",
+      "story": "settings-voice-typing--waiting",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "settings-voice-typing--unsupported-dark.png",
+      "story": "settings-voice-typing--unsupported",
+      "theme": "dark",
+      "viewport": "1200x773",
+      "reducedMotion": true,
+      "controlledFixture": true,
+      "window": "1200x800"
+    },
+    {
+      "file": "app-idle.png",
+      "source": "built Electron app + actual Parakeet model",
+      "viewport": "1280x793",
+      "theme": "light",
+      "controlledAudio": true,
+      "physicalMicrophone": false
+    },
+    {
+      "file": "app-recording.png",
+      "source": "built Electron app + actual Parakeet model",
+      "viewport": "1280x793",
+      "theme": "light",
+      "controlledAudio": true,
+      "physicalMicrophone": false
+    },
+    {
+      "file": "app-processing.png",
+      "source": "built Electron app + actual Parakeet model",
+      "viewport": "1280x793",
+      "theme": "light",
+      "controlledAudio": true,
+      "physicalMicrophone": false
+    },
+    {
+      "file": "app-completed.png",
+      "source": "built Electron app + actual Parakeet model",
+      "viewport": "1280x793",
+      "theme": "light",
+      "controlledAudio": true,
+      "physicalMicrophone": false
+    },
+    {
+      "file": "app-close-confirmation.png",
+      "source": "built Electron app + actual Parakeet model",
+      "viewport": "1280x793",
+      "theme": "light",
+      "controlledAudio": true,
+      "physicalMicrophone": false
+    },
+    {
+      "file": "app-settings.png",
+      "source": "built Electron app + actual Parakeet model",
+      "viewport": "1280x793",
+      "theme": "light",
+      "controlledAudio": true,
+      "physicalMicrophone": false
+    }
+  ]
+}
